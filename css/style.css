@@ -79,6 +79,26 @@ header nav ul li {
     transform: translate(-50%, -70%);
 }
 
+.text-image {
+    width: 50%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 28px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.text-yellow{
+    color: yellow;
+}
+
+.text-green {
+    color: green;
+}
+
 /* debug */
 /* .main-container.debug {
     background-color: lightgray;
@@ -89,6 +109,10 @@ header nav ul li {
     background-color: lime;
 } */
 
-.box.debug {
+/* .box.debug {
     background-color: mediumblue;
-}
+} */
+
+/* div.text-image {
+    background-color: blue;
+} */
